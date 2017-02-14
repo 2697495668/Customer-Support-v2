@@ -17,6 +17,4 @@
 <h2>Create a Ticket</h2>
 <h2>Create a Ticket</h2>
 <h2>Create a Ticket</h2>
-<h2>Create a Ticket</h2>
-<h2>Create a Ticket</h2>
 <%--<c:redirect url="/tickets" />--%>
